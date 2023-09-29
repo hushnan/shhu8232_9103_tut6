@@ -11,8 +11,8 @@ This is a repo that I will use to learn github.
 ![Image2 of inspiration](https://res.cloudinary.com/rca2020/image/upload/w_1920/rca2022/62aabed0d33372b7215f121e-517283)
 
 2. I found an art project on the internet about coding kaleidoscopic forms that can be "replicated and painted" in six equal angles simultaneously as the mouse clicks. Maybe this "p5.js"-based coding can realize my idea.
-## Github
+### Github
 [Link Text](https://github.com/CodingTrain/Code-of-Conduct)
-## p5
+### p5
 [Link Text](https://editor.p5js.org/codingtrain/sketches/JbWCVPX5a)
 ![An image of the Mona Lisa](readmeImages/screenshot.png)
