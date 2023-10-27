@@ -1,7 +1,7 @@
 let song;
 let img;
 let fft, waveform;
-let stars = [];
+let dots = [];
 let frameCounter = 0;
 let color1, color2;
 let textX, textY, textW, textH;
@@ -66,20 +66,20 @@ function draw() {
     
     for (let k = 0; k < 10; k++) {
       if (random (0.01, 1) < abs(waveform[index])) {
-        stars.push (new star(x, y, curR, col))
+        dots.push (new dot(x, y, curR, col))
       }
     }
   }
   
-  for (let i = 0; i < stars.length; i++) {
-    stars[i].move()
-    stars[i].show()
-    if (stars[i].z > 500) {
-      stars.splice(i, 1)
+  for (let i = 0; i < dots.length; i++) {
+    dots[i].move()
+    dots[i].show()
+    if (dots[i].z > 500) {
+      dots.splice(i, 1)
     }
   }
 }
-function star(x, y, z, col) {
+function dot(x, y, z, col) {
   this.x = x + random (-1, 1)
   this.y = y + random (-1, 1)
   this.z = z
