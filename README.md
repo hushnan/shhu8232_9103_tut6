@@ -32,9 +32,14 @@ After setting up the project as described, run the p5.js sketch in a browser. Yo
 
 ### Screenshots
 final group work (together coding)
+
 ![Screenshot of final group code](readmeImages/Screenshot_1.png)
+
 time-based part work
+
 ![Screenshot of individual code](readmeImages/Screenshot_2.png)
+
+
 
 ## Quiz 8
 
