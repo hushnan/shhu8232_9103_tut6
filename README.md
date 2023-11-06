@@ -2,6 +2,17 @@
 
 This is a repo that I will use to learn github.
 
+## Final Assignment
+
+This project utilizes the p5.js library to create a dynamic scene based on Edvard Munch's "The Scream". It includes pixelated imagery and animated figures, simulating a crowd moving across the painting.
+
+### Features
+
+- **Image Pixelation**: The iconic painting is broken down into a grid of colored squares, creating a pixelated effect.
+- **Animated Figures**: Silhouettes of people are animated to walk across the canvas, adding life to the static image.
+- **Interactive Lines**: The background includes lines that change angles and lengths over time, contributing to the dynamic feel of the scene.
+
+
 ![An image of the Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
 
 ## Quiz 8
