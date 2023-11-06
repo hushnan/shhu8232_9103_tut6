@@ -27,7 +27,7 @@ This project utilizes the p5.js library to create a dynamic scene based on Edvar
 - **Particle class**: Represents a single pixelated square of the image.
 - **pixelateImage()**: Converts the preloaded image into a grid of particles to create the pixelated effect.
 
-#### View
+### View
 After setting up the project as described, run the p5.js sketch in a browser. You will see the pixelated background image with animated figures moving over it and dynamic lines interacting in the background.
 
 
