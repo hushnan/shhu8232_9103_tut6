@@ -8,12 +8,30 @@ This project utilizes the p5.js library to create a dynamic scene based on Edvar
 
 ### Features
 
-- **Image Pixelation**: The iconic painting is broken down into a grid of colored squares, creating a pixelated effect.
+- **Image Pixelation**: The iconic painting is broken into a grid of coloured squares, creating a pixelated effect.
 - **Animated Figures**: Silhouettes of people are animated to walk across the canvas, adding life to the static image.
 - **Interactive Lines**: The background includes lines that change angles and lengths over time, contributing to the dynamic feel of the scene.
 
+### Setup
+1. **Preload Image**: Place an image file titled "Edvard_Munch_The_Scream.jpeg" in the "Images" directory of your project.
+2. **Initialize Variables**: The script uses global variables to control the animation and visual aspects of the scene, such as the slope of the animated figures' path and the size of the pixelation.
+3. **Draw Loop**: The primary animation loop where the background image is displayed, particles are rendered, and figures are animated.
 
-![An image of the Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+### CodeStructure
+- **preload()**: Preloads the image to avoid delays during rendering.
+- **setup()**: Sets up the canvas and initializes the pixelation process.
+- **draw()**: The main draw loop is called repeatedly to render the scene.
+- **drawRandomLines()**: Draws interactive lines on the canvas.
+- **lineSegment()**: Draws a segment of a line, used by `drawRandomLines()`.
+- **drawPeople()**: Renders and animates figures across the canvas.
+- **Particle class**: Represents a single pixelated square of the image.
+- **pixelateImage()**: Converts the preloaded image into a grid of particles to create the pixelated effect.
+
+#### View
+After setting up the project as described, run the p5.js sketch in a browser. You will see the pixelated background image with animated figures moving over it and dynamic lines interacting in the background.
+
+
+![Screenshot1 of my final work](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
 
 ## Quiz 8
 
