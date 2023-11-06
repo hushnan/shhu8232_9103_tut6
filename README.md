@@ -17,7 +17,7 @@ This project utilizes the p5.js library to create a dynamic scene based on Edvar
 2. **Initialize Variables**: The script uses global variables to control the animation and visual aspects of the scene, such as the slope of the animated figures' path and the size of the pixelation.
 3. **Draw Loop**: The primary animation loop where the background image is displayed, particles are rendered, and figures are animated.
 
-### CodeStructure
+### Code Structure
 - **preload()**: Preloads the image to avoid delays during rendering.
 - **setup()**: Sets up the canvas and initializes the pixelation process.
 - **draw()**: The main draw loop is called repeatedly to render the scene.
@@ -30,7 +30,10 @@ This project utilizes the p5.js library to create a dynamic scene based on Edvar
 ### View
 After setting up the project as described, run the p5.js sketch in a browser. You will see the pixelated background image with animated figures moving over it and dynamic lines interacting in the background.
 
+### Screenshots
+final group work
 
+time-based part work
 ![Screenshot1 of my final work](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
 
 ## Quiz 8
