@@ -47,4 +47,4 @@ time-based part work
 [Link Text](https://github.com/CodingTrain/Code-of-Conduct)
 ### p5
 [Link Text](https://editor.p5js.org/codingtrain/sketches/JbWCVPX5a)
-![An image of the Mona Lisa](readmeImages/screenshot.png)
+![An image of the Mona Lisa](readmeImages/screenshot_kl.png)
