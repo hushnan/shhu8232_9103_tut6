@@ -31,10 +31,10 @@ This project utilizes the p5.js library to create a dynamic scene based on Edvar
 After setting up the project as described, run the p5.js sketch in a browser. You will see the pixelated background image with animated figures moving over it and dynamic lines interacting in the background.
 
 ### Screenshots
-final group work
-
+final group work (together coding)
+![Screenshot of final group code](readmeImages/GroupCode_1.png)
 time-based part work
-![Screenshot1 of my final work](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+
 
 ## Quiz 8
 
